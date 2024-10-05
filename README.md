@@ -1,4 +1,4 @@
-# AHK
+# DBD Hook Counter
 
 1. Download and install "AutoHotkey" on https://www.autohotkey.com/
 2. Download "DBD Hook Counter.ahk" on my github
